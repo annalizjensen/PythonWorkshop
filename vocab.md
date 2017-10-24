@@ -97,9 +97,17 @@ count = 23
 ```
 
 ### Comment
-Non-functioning text in your program, after the '#'
+Non-functioning text in your program, after the '#'. Comments can be brief, after some code on the same line,
+or long (if needed), on lines by themselves. The syntax is the same: just start with a #.
 
 #### example:
 ```python
 x = x + 10.0    # move 10 pixels to the right
+
+#
+# tax_rate -- decimal value to be applied to all in-country sales.
+#          -- DO NOT CHANGE without accounting approval
+#
+
+tax_rate = 0.0925
 ```

@@ -14,4 +14,6 @@ Included:
     * sum.py - `for` loops, `range()`, accumulation
 * Slides
   * Python
-    * week0slides.pdf - covers first two chapters of *Automate the Boring Stuff* through `for` loops
+    * week0slides.pdf - covers types, variables, built-in functions
+    * week1slides.pdf - reviews chapter 1, covers booleans, comparison and boolean operators
+   

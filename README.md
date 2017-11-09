@@ -16,4 +16,4 @@ Included:
   * Python
     * week0slides.pdf - covers types, variables, built-in functions
     * week1slides.pdf - reviews chapter 1, covers booleans, comparison and boolean operators
-   
+    * cond-while-list.org - reviews chapter 2 conditionals and while loops, introduces lists (ahead of time!)

@@ -1,0 +1,44 @@
+Python Workshop
+Conditionals, Loops, and Lists
+
+* Three "tools" of Programming
+- a place to store data
+- tests (conditionals)
+- loop
+- (ref Turing model of computation)
+
+* Conditionals Review
+- if else elif
+  - "elif" is short for "else if"
+  - implied "then" when reading as English
+  - memorize: colon only at end of
+    "if", "else", "elif" tests
+
+* While
+- *very* similar to if:
+- a test (conditional), and a block of code
+- the block runs over and over, as long as the test is
+  true.
+- Read it like English: "while this test is true, do these things"
+- The test is checked before each "loop" through the block
+
+* Lists
+- up to now we have only looked at values that are individual values.
+- a List is a *compound* value -- a value that holds more than one value
+- Lists hold from 0 to (essentially) infinite number of other values
+- len() tells you the count
+- [] syntax
+- [0] for accessing a specific item
+- first item is item 0 -- deal with it!
+- you can "add" lists just like you can add strings!
+- (in fact, in many ways a "string" is just a "list" of single characters.
+  try accessing the [0]-th item in a string)
+- remember: adding two lists creates a *new* list
+- remove or "delete" and item from a list like this:
+  del y[1]
+- this *modifies* the list
+
+* Print List of Names
+- loops and lists are made for each other
+- "do something for each item in the list"
+- "calculate the list of things that ..."

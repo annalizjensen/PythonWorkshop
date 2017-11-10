@@ -30,6 +30,7 @@ Conditionals, Loops, and Lists
 - [] syntax
 - [0] for accessing a specific item
 - first item is item 0 -- deal with it!
+- IndexError if index >= len
 - you can "add" lists just like you can add strings!
 - (in fact, in many ways a "string" is just a "list" of single characters.
   try accessing the [0]-th item in a string)

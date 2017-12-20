@@ -12,6 +12,10 @@ Included:
     * vampires.py - `bool`s, bool operators, control flow (if/else)
     * password.py - `while` loops, `break, continue`
     * sum.py - `for` loops, `range()`, accumulation
+  * while-random
+    * raffle.py - raffle program picks winners
+    * average.py - averages list of floats
+    * randomPick.py - rolls an n-sided die
 * Slides
   * Python
     * week0slides.pdf - covers types, variables, built-in functions

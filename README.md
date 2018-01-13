@@ -16,8 +16,12 @@ Included:
     * raffle.py - raffle program picks winners
     * average.py - averages list of floats
     * randomPick.py - rolls an n-sided die
+  * forloops
+     * vowels.py - finds a replaces vowels given input strings
 * Slides
   * Python
     * week0slides.pdf - covers types, variables, built-in functions
     * week1slides.pdf - reviews chapter 1, covers booleans, comparison and boolean operators
     * cond-while-list.org - reviews chapter 2 conditionals and while loops, introduces lists (ahead of time!)
+* Activities
+  * For Loops
